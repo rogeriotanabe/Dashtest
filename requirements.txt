@@ -1,2 +1,1 @@
-dash-app\requirements.txt
 dash
